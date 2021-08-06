@@ -1,1 +1,3 @@
-/large-directory-that-sgould-be-local-only
+ignore-me.db
+large-directory-that-should-be-local-only
+
